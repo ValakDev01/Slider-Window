@@ -1,4 +1,4 @@
-# Drag & Drop Project 💥
+# Slider Window Project 💥
 
 <br />
 
